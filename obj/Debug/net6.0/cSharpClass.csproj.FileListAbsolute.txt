@@ -1,0 +1,4 @@
+C:\Users\blues\source\repos\cSharpClass\obj\Debug\net6.0\cSharpClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blues\source\repos\cSharpClass\obj\Debug\net6.0\cSharpClass.AssemblyInfoInputs.cache
+C:\Users\blues\source\repos\cSharpClass\obj\Debug\net6.0\cSharpClass.AssemblyInfo.cs
+C:\Users\blues\source\repos\cSharpClass\obj\Debug\net6.0\cSharpClass.csproj.CoreCompileInputs.cache
