@@ -86,7 +86,11 @@ switch (variable)
 Performs function based on a condition and can loop infinitely.
 
 ```
-	
+int i = 0;
+while(i < 10)
+{
+	Console.WriteLine(i);
+}
 ```
 
 ## DoWhile loops
