@@ -158,3 +158,30 @@ for(int i = 0; i < 20; i++)
 	}
 }
 ```
+
+## Arrays
+
+A collection of same type items in a single variable of a set size.
+
+```
+int[] numbers = new int[] {1, 2, 34, 5, 6};
+
+string[] words = new words[] {"hello", "world", "nice", "day"};
+
+//numbers[0] would be 1;
+
+//words[0] would be "hello";
+```
+
+## Multidimensional Arrays
+
+A collection of collections of same type items
+
+[
+[A, B, C],
+[D, E, F],
+[G, H, I],
+]
+
+This would be a 2 dimensional array of chars.
+
